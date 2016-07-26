@@ -1,25 +1,26 @@
 package linkedlist.common;
 
 /**
- * 链表的结构
- * Created by LXF on 2016/7/25.
+ * Created by LXF on 2016/7/26.
  */
-public class Node {
+public class DNode {
     public int value;
-    public Node next;
+    public DNode next;
+    public DNode last;
 
-    public Node(int data) {
+    public DNode(int data) {
         this.value = data;
     }
 
     /*为添加一个节点的方法*/
     public void add(int k) {
-        Node t = this;
+       DNode t = this;
         while (t.next != null) {
             t = t.next;
         }
-        Node node = new Node(k);
+        DNode node = new DNode(k);
         t.next = node;
         node.next = null;
+        node.last = t;
     }
 }
