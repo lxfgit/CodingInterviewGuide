@@ -1,4 +1,4 @@
-package stackAndqueue.sortSactkByStack;
+package stackAndqueue;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package linkedlist.removeMiddleNode;
+package linkedlist;
 
 import linkedlist.common.DNode;
 import org.junit.Test;

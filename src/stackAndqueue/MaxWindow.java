@@ -1,4 +1,4 @@
-package stackAndqueue.maxWindow;
+package stackAndqueue;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package linkedlist.reserveList;
+package linkedlist;
 
 import linkedlist.common.DNode;
 import linkedlist.common.Node;

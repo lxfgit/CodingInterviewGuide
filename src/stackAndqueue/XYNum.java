@@ -1,4 +1,4 @@
-package stackAndqueue.maJpminXNum;
+package stackAndqueue;
 
 import org.junit.Test;
 

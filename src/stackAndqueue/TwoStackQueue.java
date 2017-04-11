@@ -1,4 +1,4 @@
-package stackAndqueue.twoStackQueue;
+package stackAndqueue;
 
 import org.junit.Test;
 

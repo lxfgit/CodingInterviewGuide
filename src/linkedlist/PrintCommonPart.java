@@ -1,4 +1,4 @@
-package linkedlist.printCommonPart;
+package linkedlist;
 
 import linkedlist.common.Node;
 import org.junit.Test;

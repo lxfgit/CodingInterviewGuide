@@ -1,4 +1,4 @@
-package linkedlist.removeDlastKthNode;
+package linkedlist;
 
 import linkedlist.common.DNode;
 import org.junit.Test;

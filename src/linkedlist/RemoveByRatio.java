@@ -1,4 +1,4 @@
-package linkedlist.removeByRatio;
+package linkedlist;
 
 import linkedlist.common.Node;
 import org.junit.Test;
