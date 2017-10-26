@@ -22,4 +22,12 @@ public class Node {
         t.next = node;
         node.next = null;
     }
+
+    public static void print(Node head) {
+        Node node = head;
+        if (node != null) {
+            System.out.println(node.value);
+            node = node.next;
+        }
+    }
 }
